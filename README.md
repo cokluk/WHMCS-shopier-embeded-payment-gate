@@ -7,4 +7,4 @@ WHMCS embeded payment extension by xpslh
 
 Just install main shopier extension and put my php file
 
-- '/modules/gateways'
+File path : - '/modules/gateways'
