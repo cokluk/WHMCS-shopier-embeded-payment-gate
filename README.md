@@ -8,3 +8,5 @@ WHMCS embeded payment extension by xpslh
 Just install main shopier extension and put my php file
 
 File path : - '/modules/gateways'
+
+Edit your style your css file class = 'odemeyeri'
